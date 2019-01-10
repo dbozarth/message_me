@@ -12,8 +12,11 @@
 //
 //= require jquery
 //= require jquery-ujs
+//= require semantic_ui/semantic_ui
 //= require popper
 //= require bootstrap
+// Loads all Semantic javascripts
+//= require semantic-ui
 //= require activestorage
 //= require turbolinks
 //= require_tree .

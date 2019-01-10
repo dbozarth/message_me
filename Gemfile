@@ -13,6 +13,10 @@ gem 'puma', '~> 3.11'
 gem 'sass-rails', '~> 5.0'
 gem 'semantic-ui-sass'
 gem 'jquery-rails'
+gem 'less-rails-semantic_ui'
+gem 'autoprefixer-rails'
+gem 'execjs'
+gem 'therubyracer', :platforms => :ruby
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
