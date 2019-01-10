@@ -35,6 +35,7 @@ gem 'sprockets-rails', '~> 3.1', '>= 3.1.1'
 
 # Use bootstrap
 gem 'bootstrap', '~> 4.2.1'
+gem 'popper_js', '~> 1.14.5'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
