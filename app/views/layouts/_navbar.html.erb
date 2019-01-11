@@ -1,10 +1,10 @@
-<div class="ui small inverted menu">
+<div class="ui small inverted menu attached">
   <div class="ui container">
-    <a class="item">
-      Chatroom
+    <a>
+      <%= link_to "Chatroom", chatrooms_path, class: 'item' %>
     </a>
-    <a class="item">
-      Sessions
+    <a>
+      <%= link_to "Sessions", sessions_path, class: 'item' %>
     </a>
     <div class="right menu">
       <div class="ui dropdown item">
